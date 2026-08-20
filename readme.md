@@ -60,6 +60,14 @@ Add the `allow` attribute with the value `accelerometer`, `autoplay`, and `clipb
 `accelerometer` lets the `iframe` use motion sensors so it can detect things like device tilting and rotation. `autoplay` lets the video start playing automatically, and `clipboard-write` lets the `iframe` write data to the user's clipboard.  
 
 
+### Step 6  
+Add `encrypted-media`, `gyroscope`, and `web-share` to the existing values in the `allow` attribute.  
+
+These three will allow the use of encrypted media extensions to protect the video, grant access to the device's motion and orientation
+sensors, and allow sharing the `iframe`
+content through the device's native share dialogs.  
+
+
 [**Click the link to see my work https://student0martian.github.io/fcc-videodisplay-using-iframe/**](https://student0martian.github.io/fcc-videodisplay-using-iframe/)  
   
   
