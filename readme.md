@@ -24,6 +24,12 @@ The basic HTML boilerplate has been prepared for you.
 Begin by creating an `h1` element with the text `iframe Video Display`.  
 
 
+### Step 2  
+Now, create an `iframe` element.  
+Don't put anything in it yet.  
+
+
+
 [**Click the link to see my work https://student0martian.github.io/fcc-videodisplay-using-iframe/**](https://student0martian.github.io/fcc-videodisplay-using-iframe/)  
   
   
